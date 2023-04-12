@@ -20,5 +20,6 @@ Solution:
 9) git init //current work directory will initialized in git repository
 Initialized empty Git repository in D:/wscub/.git/
 10) git status // sows you about your working directory status what new files are added
-
+11) git add --a // send files into staging area
+12) git commit -m "this is my first commit"
 
