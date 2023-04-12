@@ -1,0 +1,24 @@
+*** git bash working on linxus command interface commands***
+Git Hub Commands:
+1) git // show all useage commands
+2) git -v or git --version// show version of current downloaded github
+3) git -h or git help //shows the help commnds
+4) clear // clear git bash screen
+5) pwd (present work directory) // shows your current directory
+
+// for gobal user congiguration
+
+6) git config unser.name "saba"  user will configured in globally
+7) git config user.email "sabaatta24@gmail.com"
+8) git config --list
+
+#Error 1
+$ git config user.name "saba"
+fatal: not in a git directory // this error comes because our current work directory was not initialized with git repository.
+
+Solution:
+9) git init //current work directory will initialized in git repository
+Initialized empty Git repository in D:/wscub/.git/
+10) git status // sows you about your working directory status what new files are added
+
+
